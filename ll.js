@@ -34,12 +34,10 @@ class linkedList {
     }
 
     head(){
-        console.log(this.head);
         return this.head;
     }
 
     tail(){
-        console.log(this.tail);
         return this.tail;
     }
 
@@ -182,4 +180,4 @@ class node {
     }
 }
 
-export {linkedList};
+export { linkedList };
